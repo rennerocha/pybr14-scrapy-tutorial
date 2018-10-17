@@ -1,0 +1,419 @@
+<program>
+  <var name="data">
+    <array>
+      <object>
+        <property name="tags">
+          <array>
+            <string>change</string>
+            <string>deep-thoughts</string>
+            <string>thinking</string>
+            <string>world</string>
+          </array>
+        </property>
+        <property name="author">
+          <object>
+            <property name="name">
+              <string>Albert Einstein</string>
+            </property>
+            <property name="goodreads_link">
+              <string>/author/show/9810.Albert_Einstein</string>
+            </property>
+            <property name="slug">
+              <string>Albert-Einstein</string>
+            </property>
+          </object>
+        </property>
+        <property name="text">
+          <string>“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”</string>
+        </property>
+      </object>
+      <object>
+        <property name="tags">
+          <array>
+            <string>abilities</string>
+            <string>choices</string>
+          </array>
+        </property>
+        <property name="author">
+          <object>
+            <property name="name">
+              <string>J.K. Rowling</string>
+            </property>
+            <property name="goodreads_link">
+              <string>/author/show/1077326.J_K_Rowling</string>
+            </property>
+            <property name="slug">
+              <string>J-K-Rowling</string>
+            </property>
+          </object>
+        </property>
+        <property name="text">
+          <string>“It is our choices, Harry, that show what we truly are, far more than our abilities.”</string>
+        </property>
+      </object>
+      <object>
+        <property name="tags">
+          <array>
+            <string>inspirational</string>
+            <string>life</string>
+            <string>live</string>
+            <string>miracle</string>
+            <string>miracles</string>
+          </array>
+        </property>
+        <property name="author">
+          <object>
+            <property name="name">
+              <string>Albert Einstein</string>
+            </property>
+            <property name="goodreads_link">
+              <string>/author/show/9810.Albert_Einstein</string>
+            </property>
+            <property name="slug">
+              <string>Albert-Einstein</string>
+            </property>
+          </object>
+        </property>
+        <property name="text">
+          <string>“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”</string>
+        </property>
+      </object>
+      <object>
+        <property name="tags">
+          <array>
+            <string>aliteracy</string>
+            <string>books</string>
+            <string>classic</string>
+            <string>humor</string>
+          </array>
+        </property>
+        <property name="author">
+          <object>
+            <property name="name">
+              <string>Jane Austen</string>
+            </property>
+            <property name="goodreads_link">
+              <string>/author/show/1265.Jane_Austen</string>
+            </property>
+            <property name="slug">
+              <string>Jane-Austen</string>
+            </property>
+          </object>
+        </property>
+        <property name="text">
+          <string>“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”</string>
+        </property>
+      </object>
+      <object>
+        <property name="tags">
+          <array>
+            <string>be-yourself</string>
+            <string>inspirational</string>
+          </array>
+        </property>
+        <property name="author">
+          <object>
+            <property name="name">
+              <string>Marilyn Monroe</string>
+            </property>
+            <property name="goodreads_link">
+              <string>/author/show/82952.Marilyn_Monroe</string>
+            </property>
+            <property name="slug">
+              <string>Marilyn-Monroe</string>
+            </property>
+          </object>
+        </property>
+        <property name="text">
+          <string>“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”</string>
+        </property>
+      </object>
+      <object>
+        <property name="tags">
+          <array>
+            <string>adulthood</string>
+            <string>success</string>
+            <string>value</string>
+          </array>
+        </property>
+        <property name="author">
+          <object>
+            <property name="name">
+              <string>Albert Einstein</string>
+            </property>
+            <property name="goodreads_link">
+              <string>/author/show/9810.Albert_Einstein</string>
+            </property>
+            <property name="slug">
+              <string>Albert-Einstein</string>
+            </property>
+          </object>
+        </property>
+        <property name="text">
+          <string>“Try not to become a man of success. Rather become a man of value.”</string>
+        </property>
+      </object>
+      <object>
+        <property name="tags">
+          <array>
+            <string>life</string>
+            <string>love</string>
+          </array>
+        </property>
+        <property name="author">
+          <object>
+            <property name="name">
+              <string>André Gide</string>
+            </property>
+            <property name="goodreads_link">
+              <string>/author/show/7617.Andr_Gide</string>
+            </property>
+            <property name="slug">
+              <string>Andre-Gide</string>
+            </property>
+          </object>
+        </property>
+        <property name="text">
+          <string>“It is better to be hated for what you are than to be loved for what you are not.”</string>
+        </property>
+      </object>
+      <object>
+        <property name="tags">
+          <array>
+            <string>edison</string>
+            <string>failure</string>
+            <string>inspirational</string>
+            <string>paraphrased</string>
+          </array>
+        </property>
+        <property name="author">
+          <object>
+            <property name="name">
+              <string>Thomas A. Edison</string>
+            </property>
+            <property name="goodreads_link">
+              <string>/author/show/3091287.Thomas_A_Edison</string>
+            </property>
+            <property name="slug">
+              <string>Thomas-A-Edison</string>
+            </property>
+          </object>
+        </property>
+        <property name="text">
+          <string>“I have not failed. I've just found 10,000 ways that won't work.”</string>
+        </property>
+      </object>
+      <object>
+        <property name="tags">
+          <array>
+            <string>misattributed-eleanor-roosevelt</string>
+          </array>
+        </property>
+        <property name="author">
+          <object>
+            <property name="name">
+              <string>Eleanor Roosevelt</string>
+            </property>
+            <property name="goodreads_link">
+              <string>/author/show/44566.Eleanor_Roosevelt</string>
+            </property>
+            <property name="slug">
+              <string>Eleanor-Roosevelt</string>
+            </property>
+          </object>
+        </property>
+        <property name="text">
+          <string>“A woman is like a tea bag; you never know how strong it is until it's in hot water.”</string>
+        </property>
+      </object>
+      <object>
+        <property name="tags">
+          <array>
+            <string>humor</string>
+            <string>obvious</string>
+            <string>simile</string>
+          </array>
+        </property>
+        <property name="author">
+          <object>
+            <property name="name">
+              <string>Steve Martin</string>
+            </property>
+            <property name="goodreads_link">
+              <string>/author/show/7103.Steve_Martin</string>
+            </property>
+            <property name="slug">
+              <string>Steve-Martin</string>
+            </property>
+          </object>
+        </property>
+        <property name="text">
+          <string>“A day without sunshine is like, you know, night.”</string>
+        </property>
+      </object>
+    </array>
+  </var>
+  <forin>
+    <variable>
+      <var name="i"/>
+    </variable>
+    <object>
+      <identifier name="data"/>
+    </object>
+    <statement>
+      <block>
+        <var name="d">
+          <bracketaccessor>
+            <object>
+              <identifier name="data"/>
+            </object>
+            <property>
+              <identifier name="i"/>
+            </property>
+          </bracketaccessor>
+        </var>
+        <var name="tags">
+          <functioncall>
+            <function>
+              <dotaccessor>
+                <object>
+                  <functioncall>
+                    <function>
+                      <dotaccessor>
+                        <object>
+                          <identifier name="$"/>
+                        </object>
+                        <property>
+                          <identifier name="map"/>
+                        </property>
+                      </dotaccessor>
+                    </function>
+                    <arguments>
+                      <bracketaccessor>
+                        <object>
+                          <identifier name="d"/>
+                        </object>
+                        <property>
+                          <string>tags</string>
+                        </property>
+                      </bracketaccessor>
+                      <funcexpr>
+                        <identifier/>
+                        <parameters>
+                          <identifier name="t"/>
+                        </parameters>
+                        <body>
+                          <return>
+                            <binaryoperation operation="+">
+                              <left>
+                                <binaryoperation operation="+">
+                                  <left>
+                                    <string>&lt;a class='tag'&gt;</string>
+                                  </left>
+                                  <right>
+                                    <identifier name="t"/>
+                                  </right>
+                                </binaryoperation>
+                              </left>
+                              <right>
+                                <string>&lt;/a&gt;</string>
+                              </right>
+                            </binaryoperation>
+                          </return>
+                        </body>
+                      </funcexpr>
+                    </arguments>
+                  </functioncall>
+                </object>
+                <property>
+                  <identifier name="join"/>
+                </property>
+              </dotaccessor>
+            </function>
+            <arguments>
+              <string> </string>
+            </arguments>
+          </functioncall>
+        </var>
+        <functioncall>
+          <function>
+            <dotaccessor>
+              <object>
+                <identifier name="document"/>
+              </object>
+              <property>
+                <identifier name="write"/>
+              </property>
+            </dotaccessor>
+          </function>
+          <arguments>
+            <binaryoperation operation="+">
+              <left>
+                <binaryoperation operation="+">
+                  <left>
+                    <binaryoperation operation="+">
+                      <left>
+                        <binaryoperation operation="+">
+                          <left>
+                            <binaryoperation operation="+">
+                              <left>
+                                <binaryoperation operation="+">
+                                  <left>
+                                    <string>&lt;div class='quote'&gt;&lt;span class='text'&gt;</string>
+                                  </left>
+                                  <right>
+                                    <bracketaccessor>
+                                      <object>
+                                        <identifier name="d"/>
+                                      </object>
+                                      <property>
+                                        <string>text</string>
+                                      </property>
+                                    </bracketaccessor>
+                                  </right>
+                                </binaryoperation>
+                              </left>
+                              <right>
+                                <string>&lt;/span&gt;&lt;span&gt;by &lt;small class='author'&gt;</string>
+                              </right>
+                            </binaryoperation>
+                          </left>
+                          <right>
+                            <bracketaccessor>
+                              <object>
+                                <bracketaccessor>
+                                  <object>
+                                    <identifier name="d"/>
+                                  </object>
+                                  <property>
+                                    <string>author</string>
+                                  </property>
+                                </bracketaccessor>
+                              </object>
+                              <property>
+                                <string>name</string>
+                              </property>
+                            </bracketaccessor>
+                          </right>
+                        </binaryoperation>
+                      </left>
+                      <right>
+                        <string>&lt;/small&gt;&lt;/span&gt;&lt;div class='tags'&gt;Tags: </string>
+                      </right>
+                    </binaryoperation>
+                  </left>
+                  <right>
+                    <identifier name="tags"/>
+                  </right>
+                </binaryoperation>
+              </left>
+              <right>
+                <string>&lt;/div&gt;&lt;/div&gt;</string>
+              </right>
+            </binaryoperation>
+          </arguments>
+        </functioncall>
+      </block>
+    </statement>
+  </forin>
+</program>

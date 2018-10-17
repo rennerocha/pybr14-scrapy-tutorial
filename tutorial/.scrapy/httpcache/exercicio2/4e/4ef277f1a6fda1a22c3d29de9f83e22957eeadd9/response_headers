@@ -1,0 +1,5 @@
+Server: nginx/1.12.1
+Date: Mon, 15 Oct 2018 14:21:33 GMT
+Content-Type: application/json
+X-Upstream: spidyquotes-master_web
+Content-Encoding: gzip

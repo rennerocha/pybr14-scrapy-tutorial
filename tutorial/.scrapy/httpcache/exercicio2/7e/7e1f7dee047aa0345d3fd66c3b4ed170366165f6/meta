@@ -1,0 +1,1 @@
+{'url': 'http://quotes.toscrape.com/api/quotes?page=1', 'method': 'GET', 'status': 200, 'response_url': 'http://quotes.toscrape.com/api/quotes?page=1', 'timestamp': 1539613292.5092716}
