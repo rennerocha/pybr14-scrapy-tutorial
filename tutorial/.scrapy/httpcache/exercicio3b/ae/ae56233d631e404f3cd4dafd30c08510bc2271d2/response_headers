@@ -1,6 +1,0 @@
-Server: nginx/1.12.1
-Date: Mon, 15 Oct 2018 14:21:55 GMT
-Content-Type: text/html; charset=utf-8
-Set-Cookie: session=eyJjc3JmX3Rva2VuIjoiQktQRWF3SEZoTHNjU0ptTVF5dEdialJBdWtwWnpUT1hWQ3JsaVVXdnhZZG5xRGZnTm9JZSJ9.DqY0Aw.5Y2W66gA-rcoixc_Azy-r343nsY; HttpOnly; Path=/
-X-Upstream: spidyquotes-master_web
-Content-Encoding: gzip
